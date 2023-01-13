@@ -1,3 +1,4 @@
+import React from 'react';
 import entradasImg from '../../assets/entradas.svg';
 import saidasImg from '../../assets/saidas.svg';
 import totalImg from '../../assets/total.svg';
