@@ -3,11 +3,11 @@ import entradasImg from '../../assets/entradas.svg';
 import saidasImg from '../../assets/saidas.svg';
 import totalImg from '../../assets/total.svg';
 import { Container } from "./styles";
-import { TransactionsContext } from '../../TransactionsContext';
+import { TransactionsContext } from '../../hooks/useTransactions';
 
 export function Sumary() {
-    const transactions = useContext(TransactionsContext);
-    
+    const { transactions } = useContext(TransactionsContext);
+
 
     return (
         <Container>
