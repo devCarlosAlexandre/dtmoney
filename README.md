@@ -1,3 +1,14 @@
+# Dt money é  uma aplicação para gerenciamento de contas a pagar e a receber: 🪄💻
+tecnologias utilizadas: React.js, Typescript, Styled Components, Context, Mirage.js -> simulador de Api.
+este projeto foi desenvolvido durante estudos na rocketseat.
+
+# screens 💻:
+
+![main dt money](https://user-images.githubusercontent.com/63679873/212673775-c2bfc965-f78d-4ece-8270-00405166b4aa.png)
+![new transaction dt money](https://user-images.githubusercontent.com/63679873/212673796-2e8dc615-51b0-4b18-9c8e-4fa9219816be.png)
+![insertion dt money](https://user-images.githubusercontent.com/63679873/212673808-32786534-ab0b-4f66-bb33-f331661d7ee4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
